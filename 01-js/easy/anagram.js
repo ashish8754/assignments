@@ -6,6 +6,7 @@
 
 function isAnagram(str1, str2) {
 
+  // Testing commit to myBranch
 }
 
 module.exports = isAnagram;
