@@ -7,8 +7,7 @@ function wait(n) {
     let interval=n*1000;
     return new Promise((resolve)=>{
         setTimeout(()=>{
-            resolve();
-        },interval);
+            resolve();},interval);
     });
 
 }
